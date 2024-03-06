@@ -17,12 +17,12 @@ This repository serves as my personal learning space for mastering data mining t
 ## Daily Exercises
 
 Each day, I will be working on exercises provided in the book. You can find the daily exercises in the dedicated folders organized by date.
-- ...
+ ...
 
 ## Projects
 
 I will also be implementing larger projects as part of my learning journey. 
-- ...
+ ...
 
 ## How to Navigate the Repository
 
